@@ -24,8 +24,8 @@ En el desarrollo de software de ingeniería, los métodos numéricos son una her
 
 ## 📂 Contenido del repositorio
 
-| # | Tema | Recursos | Implementación |
-|:-:|------|----------|----------------|
+| # | Tema |Implementación |
+|:-:|------|--------------|
 | 1 | Fundamentos y conceptos básicos |  [💻 Código](/codigos/tema1/) |
 | 2 | Métodos para raíces de ecuaciones |  [💻 Código](/codigos/tema2) |
 | 3 | Resolución de sistemas lineales |  [💻 Código](/codigos/tema3) |
