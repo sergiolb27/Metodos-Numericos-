@@ -1,39 +1,47 @@
-Implementación de Métodos Numéricos - ITESA
-Este repositorio contiene soluciones computacionales aplicadas a diversos métodos numéricos fundamentales en sistemas.
+# 🔢 Métodos Numéricos Aplicados en Ingeniería - ITESA
 
-👤 Responsable del proyecto
-Sergio López Beltrán
+> Repositorio académico con implementaciones prácticas de **métodos numéricos utilizados en el ámbito computacional e ingenieril**.
 
-🧠 Aplicaciones de los métodos numéricos en la ingeniería de sistemas
-Los métodos numéricos son herramientas clave para abordar problemas que no pueden resolverse de forma exacta. Se aplican en:
+---
 
-🎮 Simulación de física en motores de videojuegos
+## 👨‍🔬 Autor del proyecto
 
-🌍 Modelado de redes y sistemas distribuidos
+- **Sergio López Beltrán**
 
-🤖 Procesos de Machine Learning y algoritmos inteligentes
+---
 
-🎧 Tratamiento de señales e imágenes digitales
+## 📌 Relevancia de los métodos numéricos en sistemas computacionales
 
-📈 Análisis de datos masivos y modelado científico
+En el desarrollo de software de ingeniería, los métodos numéricos son una herramienta indispensable para modelar, predecir y resolver problemas reales que no pueden abordarse con fórmulas exactas. Se utilizan en:
 
-📚 Contenidos disponibles
-#	Tema	Documentación	Ejemplos de código
-1	Introducción a los métodos numéricos	 Documento	 Python
-2	Ecuaciones no lineales	 Documento	 Python
-3	Sistemas de ecuaciones lineales	 Documento	 Python
-4	Métodos de integración y derivación numérica	 Documento	 Python
-5	Interpolación y ajuste de curvas	 Documento	 Python
-6	Resolución de EDOs	 Documento	 Python
+- 🎮 **Desarrollo de simuladores y entornos interactivos**  
+- 🌐 **Cálculo distribuido y análisis de redes complejas**  
+- 🧠 **Algoritmos de aprendizaje automático**  
+- 🖼️ **Reconocimiento de patrones en imágenes y sonido**  
+- 📉 **Cómputo científico y técnicas de análisis de datos**
 
-🛠️ Herramientas empleadas
-Python 3.x
+---
 
-Git y GitHub
+## 📂 Contenido del repositorio
 
-bash
-Copiar
-Editar
-# Clona este repositorio
+| # | Tema | Recursos | Implementación |
+|:-:|------|----------|----------------|
+| 1 | Fundamentos y conceptos básicos | [📄 Documento](/docs/TEMA1-Introduccion.md) | [💻 Código](/codigos/tema1/) |
+| 2 | Métodos para raíces de ecuaciones | [📄 Documento](/docs/TEMA2-Ecuaciones.md) | [💻 Código](/codigos/tema2) |
+| 3 | Resolución de sistemas lineales | [📄 Documento](/docs/TEMA3-Sistemas-Ecuaciones.md) | [💻 Código](/codigos/tema3) |
+| 4 | Cálculo numérico de derivadas e integrales | [📄 Documento](/docs/TEMA4-Integracion.md) | [💻 Código](/codigos/tema4) |
+| 5 | Técnicas de interpolación | [📄 Documento](/docs/TEMA5-Interpolacion.md) | [💻 Código](/codigos/tema5) |
+| 6 | Modelado con ecuaciones diferenciales | [📄 Documento](/docs/TEMA6.md) | [💻 Código](/codigos/tema6) |
+
+---
+
+## 🛠 Herramientas utilizadas
+
+- Lenguaje: Python  
+- Control de versiones: Git y GitHub  
+
+```bash
+# Clonar el repositorio
 git clone https://github.com/tu-usuario/metodos-numericos-itesa.git
 cd metodos-numericos-itesa
+
