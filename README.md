@@ -1,51 +1,39 @@
-# 💻 Métodos Numéricos para Sistemas Computacionales - ITESA
+Implementación de Métodos Numéricos - ITESA
+Este repositorio contiene soluciones computacionales aplicadas a diversos métodos numéricos fundamentales en sistemas.
 
+👤 Responsable del proyecto
+Sergio López Beltrán
 
+🧠 Aplicaciones de los métodos numéricos en la ingeniería de sistemas
+Los métodos numéricos son herramientas clave para abordar problemas que no pueden resolverse de forma exacta. Se aplican en:
 
-> Repositorio especializado en la **implementación computacional de métodos numéricos**
+🎮 Simulación de física en motores de videojuegos
 
----
+🌍 Modelado de redes y sistemas distribuidos
 
-## 👨‍💻 Autores
+🤖 Procesos de Machine Learning y algoritmos inteligentes
 
-- **Iván Pedro Suárez**  
+🎧 Tratamiento de señales e imágenes digitales
 
-- **Jorge Andrés García Sánchez**  
+📈 Análisis de datos masivos y modelado científico
 
----
+📚 Contenidos disponibles
+#	Tema	Documentación	Ejemplos de código
+1	Introducción a los métodos numéricos	 Documento	 Python
+2	Ecuaciones no lineales	 Documento	 Python
+3	Sistemas de ecuaciones lineales	 Documento	 Python
+4	Métodos de integración y derivación numérica	 Documento	 Python
+5	Interpolación y ajuste de curvas	 Documento	 Python
+6	Resolución de EDOs	 Documento	 Python
 
-## 🖥️ ¿Por qué son importantes los métodos numéricos en sistemas?
+🛠️ Herramientas empleadas
+Python 3.x
 
-Los métodos numéricos permiten resolver problemas complejos que no tienen solución analítica exacta. Son esenciales para:
+Git y GitHub
 
-- 🕹️ **Motores físicos en videojuegos**  
-- 🌐 **Simulación de redes y sistemas distribuidos**  
-- 🧠 **Machine Learning e Inteligencia Artificial**  
-- 📡 **Procesamiento digital de señales e imágenes**  
-- 📊 **Análisis de Big Data y computación científica**  
-
----
-
-## 🧮 Módulos Implementados
-
-| # | Tema | Documentación | Códigos  |
-|:-:|------|---------------|----------------|
-| 1 | Introducción a los métodos numéricos | [📘 Teoría](/docs/TEMA1-Introduccion.md) | [🐍 Python](/codigos/tema1/) 
-| 2 | Solución de ecuaciones no lineales | [📘 Teoría](/docs/TEMA2-Ecuaciones.md) | [🐍 Python](/codigos/tema2) 
-| 3 | Sistemas de ecuaciones lineales | [📘 Teoría](/docs/TEMA3-Sistemas-Ecuaciones.md) | [🐍 Python](/codigos/tema3) 
-| 4 | Diferenciación e integración numérica | [📘 Teoría](/docs/TEMA4-Integracion.md) | [🐍 Python](/codigos/tema4)
-| 5 | Interpolación y ajuste de datos | [📘 Teoría](/docs/TEMA5-Interpolacion.md) | [🐍 Python](/codigos/tema5) 
-| 6 | Ecuaciones diferenciales ordinarias | [📘 Teoría](/docs/TEMA6.md) | [🐍 Python](/codigos/tema6) 
-
----
-
-## ⚙️ Tecnologías Utilizadas
-
-- Python
-- Git / GitHub
-- PyCharm
-
-```bash
-# Clona el repositorio
+bash
+Copiar
+Editar
+# Clona este repositorio
 git clone https://github.com/tu-usuario/metodos-numericos-itesa.git
 cd metodos-numericos-itesa
