@@ -42,14 +42,14 @@ El estudio de trayectorias de proyectiles es fundamental en física, deportes y 
 
 [ Ver código de Euler para sistemas (Python)](https://github.com/sergiolb27/Metodos-Numericos-/blob/9c47b8b29ab18ab6ed69f051d0bd566bfb22df48/codigos/tema6/Eulerp.py)
 
-##  Runge–Kutta RK4 (una EDO)
+##  Runge–Kutta RK4
 
 **Ejercicio resuelto:**  
 En microbiología y biotecnología, es esencial predecir el crecimiento de colonias bacterianas en un medio con recursos limitados. Supón que una colonia parte de 100,000 bacterias y crece con una tasa de 1.2 h⁻¹, pero el crecimiento se ralentiza a medida que se acerca a la capacidad máxima del medio (10 millones de bacterias). Se simula el crecimiento durante 8 horas usando el método RK4. Este análisis ayuda a planificar experimentos, optimizar la producción de biomasa y prevenir la sobrepoblación en biorreactores.
 
 [ Ver código de Runge-Kutta RK4 (Python)](https://github.com/sergiolb27/Metodos-Numericos-/blob/9c47b8b29ab18ab6ed69f051d0bd566bfb22df48/codigos/tema6/rk4.py)
 
-##  Runge–Kutta RK4 para sistemas
+##  Runge–Kutta RK4S
 
 **Ejercicio resuelto:**  
 En ecología, el modelo Lotka-Volterra describe la interacción entre una población de presas y sus depredadores. Supón que en un ecosistema hay 25 presas y 5 depredadores al inicio, con tasas de crecimiento y depredación conocidas. Se simula la evolución de ambas poblaciones durante 30 días. Este tipo de simulación es fundamental para biólogos y gestores ambientales, ya que permite prever ciclos poblacionales, evaluar el impacto de la caza o la introducción de especies, y diseñar estrategias de conservación.
