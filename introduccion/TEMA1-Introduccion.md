@@ -30,12 +30,6 @@ Actividad enfocada en la demostración de los diferentes tipos de errores en mé
 1️ Errores de Precisión
 Descripción breve:
 Este ejercicio muestra cómo la acumulación de pequeños errores en operaciones repetidas puede llevar a resultados ligeramente diferentes de los esperados, debido a la representación finita de los números en la computadora.
-### 🧾 Pseudocódigo
-```
-1. Elegir intervalo [a, b]
-2. Evaluar f(x) en varios puntos
-3. Graficar f(x) contra x
-4. Observar el punto donde f(x) ≈ 0
 
 Enunciado:
 Realiza una suma repetida de un número decimal pequeño (por ejemplo, 0.0001) muchas veces y compara el resultado obtenido con el valor esperado. Calcula el error absoluto y relativo.
@@ -45,14 +39,7 @@ Realiza una suma repetida de un número decimal pequeño (por ejemplo, 0.0001) m
 2️ Errores de Redondeo
 Descripción breve:
 Este ejercicio ilustra cómo la representación binaria de ciertos decimales (como 0.1) puede causar pequeñas discrepancias en los cálculos, generando errores de redondeo.
-### 🧾 Pseudocódigo
-```
-1. Calcular f(a) y f(b)
-2. Mientras |b - a| > tolerancia:
-    x = (a + b)/2
-    Si f(a)*f(x) < 0: b = x
-    Si f(b)*f(x) < 0: a = x
-3. Retornar x
+
 
 Enunciado:
 Suma el número 0.1 tres veces y compara el resultado con 0.3. Calcula el error absoluto y relativo.
@@ -62,14 +49,7 @@ Suma el número 0.1 tres veces y compara el resultado con 0.3. Calcula el error 
 3️ Errores de Truncamiento
 Descripción breve:
 Este ejercicio demuestra cómo el error de truncamiento ocurre al aproximar una serie infinita (como la de Taylor para e) usando un número finito de términos.
-### 🧾 Pseudocódigo
-```
-1. Calcular f(a) y f(b)
-2. Mientras |f(x)| > tolerancia:
-    x = b - f(b)*(b - a)/(f(b) - f(a))
-    Si f(a)*f(x) < 0: b = x
-    Si f(b)*f(x) < 0: a = x
-3. Retornar x
+
 
 Enunciado:
 Aproxima el número e utilizando la serie de Taylor con un número limitado de términos. Compara el valor aproximado con el valor real y calcula el error absoluto y relativo.
