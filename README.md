@@ -31,7 +31,7 @@ En el desarrollo de software de ingeniería, los métodos numéricos son una her
 | 3 | Resolución de sistemas lineales | [📄 Documento](/introduccion/TEMA3-Sistemas-Ecuaciones.md) | [💻 Código](/codigos/tema3) |
 | 4 | Cálculo numérico de derivadas e integrales | [📄 Documento](/introduccion/TEMA4-Integracion.md) | [💻 Código](/codigos/tema4) |
 | 5 | Técnicas de interpolación | [📄 Documento](/introduccion/TEMA5-Interpolacion.md) | [💻 Código](/codigos/tema5) |
-| 6 | Modelado con ecuaciones diferenciales | [📄 Documento](/introduccion/TEMA6.md) | [💻 Código](/codigos/tema6) |
+| 6 | Modelado con ecuaciones diferenciales | [📄 Documento](/introduccion/TEMA6-Ecuaciones-Diferenciales.md) | [💻 Código](/codigos/tema6) |
 
 ---
 
