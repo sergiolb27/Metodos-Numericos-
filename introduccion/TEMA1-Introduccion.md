@@ -34,7 +34,7 @@ pi_preciso = 3.141592      # 7 cifras significativas
 
 
 ---
- T1-E2: Problemario de Errores Numéricos
+### T1-E2: Problemario de Errores Numéricos
 Actividad enfocada en la demostración de los diferentes tipos de errores en métodos numéricos, así como una explicación de estos.
 
 1️ Errores de Precisión
