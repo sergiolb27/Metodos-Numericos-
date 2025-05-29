@@ -10,8 +10,6 @@ En las ciencias e ingeniería, es común enfrentarse a problemas que requieren l
 
 Dado que resolver estos sistemas de forma manual no es práctico cuando el número de ecuaciones crece, se emplean **métodos numéricos** que permiten obtener soluciones aproximadas de manera eficiente mediante el uso de computadoras. Estos métodos, como **Gauss, Gauss-Jordan, LU, Jacobi y Gauss-Seidel**, son fundamentales en simulación, análisis de datos y cálculo científico.
 
----
-
 ## Importancia de los Métodos de Solución
 
 > "Son las claves para desentrañar sistemas complejos que gobiernan el comportamiento del mundo físico y social."
@@ -21,8 +19,6 @@ Dado que resolver estos sistemas de forma manual no es práctico cuando el núme
 - Análisis estructural y térmico.
 - Optimización y modelos predictivos.
 - Simulaciones de fenómenos físicos, químicos y económicos.
-
----
 
 ### Problemario de Métodos de Solución
 
@@ -39,8 +35,6 @@ Resolver un sistema de 3x3 ecuaciones con coeficientes conocidos.
 
 [ Ver código del método de Gauss (Python)](https://github.com/sergiolb27/Metodos-Numericos-/blob/212b080085a77f9436c557a73cb78d215960f9bb/codigos/tema3/Eliminacion%20Gaussiana%20con%20pivote.py)
 
----
-
 #### 2. Método de Gauss-Jordan
 
 **Descripción:**  
@@ -51,8 +45,6 @@ Resolver el mismo sistema de 3x3 por Gauss-Jordan.
 
 [ Ver código del método de Gauss-Jordan (Python)](https://github.com/sergiolb27/Metodos-Numericos-/blob/212b080085a77f9436c557a73cb78d215960f9bb/codigos/tema3/Metodo%20Gauss%20Jordan.py)
 
----
-
 #### 3. Método de Jacobi
 
 **Descripción:**  
@@ -62,8 +54,6 @@ Es un método iterativo que calcula nuevas aproximaciones de cada variable usand
 Resolver un sistema iterativamente con Jacobi.
 
 [ Ver código del método de Jacobi (Python)](https://github.com/sergiolb27/Metodos-Numericos-/blob/212b080085a77f9436c557a73cb78d215960f9bb/codigos/tema3/Metodo%20de%20Jacobi.py)
-
----
 
 #### 4. Método de Gauss-Seidel
 
@@ -83,5 +73,5 @@ Resolver el siguiente sistema de ecuaciones lineales utilizando el método de el
 
 [ Ver caso de prueba ](https://github.com/sergiolb27/Metodos-Numericos-/blob/212b080085a77f9436c557a73cb78d215960f9bb/codigos/tema3/CasoPrueba.py)
 
-[⬅️ Volver al README principal](../README.md)
+[ Volver al README principal](../README.md)
 
