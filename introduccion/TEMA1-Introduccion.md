@@ -30,6 +30,12 @@ Actividad enfocada en la demostración de los diferentes tipos de errores en mé
 1️ Errores de Precisión
 Descripción breve:
 Este ejercicio muestra cómo la acumulación de pequeños errores en operaciones repetidas puede llevar a resultados ligeramente diferentes de los esperados, debido a la representación finita de los números en la computadora.
+### 🧾 Pseudocódigo
+```
+1. Elegir intervalo [a, b]
+2. Evaluar f(x) en varios puntos
+3. Graficar f(x) contra x
+4. Observar el punto donde f(x) ≈ 0
 
 Enunciado:
 Realiza una suma repetida de un número decimal pequeño (por ejemplo, 0.0001) muchas veces y compara el resultado obtenido con el valor esperado. Calcula el error absoluto y relativo.
