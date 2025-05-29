@@ -1,4 +1,4 @@
-# Tema 5: Interpolación y ajuste de funciones
+# Tema 5: Interpolación 
 
 En la ciencia, la ingeniería y el análisis de datos, muchas veces solo disponemos de un conjunto limitado de mediciones o resultados experimentales. Sin embargo, necesitamos estimar valores intermedios, predecir comportamientos o modelar tendencias a partir de esos datos discretos. Por ejemplo:
 
@@ -10,7 +10,7 @@ En estos escenarios, los **métodos de interpolación y ajuste de funciones** se
 
 ---
 
-## Importancia de la Interpolación y el Ajuste
+## Importancia de la Interpolación 
 
 > "Son las técnicas que nos permiten estimar, predecir y modelar cuando los datos exactos no están disponibles o son insuficientes."
 
@@ -110,5 +110,5 @@ Python lanza ZeroDivisionError cuando detecta división por cero, deteniendo com
 
 
 
-[⬅️ Volver al README principal](../README.md)
+[ Volver al README principal](../README.md)
 
