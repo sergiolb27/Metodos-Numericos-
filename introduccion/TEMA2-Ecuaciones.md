@@ -1,57 +1,26 @@
 # Tema 2: Métodos de Solución de Ecuaciones No Lineales
 
-## 🌍 Contexto Fundamental
+En el ámbito de la ciencia y la ingeniería, la mayoría de los problemas reales no se presentan de forma sencilla ni con soluciones exactas. Con frecuencia se trabaja con **ecuaciones no lineales** que no pueden resolverse con métodos algebraicos comunes. Por ejemplo:
 
-En el mundo real, los problemas científicos y de ingeniería rara vez se presentan en formas simples o con soluciones exactas. Muchas veces, nos enfrentamos a **ecuaciones no lineales** que no pueden resolverse de manera directa mediante técnicas algebraicas tradicionales. Por ejemplo:
+- Estimar la trayectoria de un satélite considerando variaciones en la gravedad y la fricción atmosférica.
+- Identificar estados de equilibrio en procesos químicos complejos.
+- Mejorar el rendimiento de sistemas energéticos donde las variables están interrelacionadas.
 
-- Calcular la trayectoria precisa de un satélite 🛰️, donde la resistencia del aire y la gravedad varían con la altitud.
-- Determinar los puntos de equilibrio en reacciones químicas ⚗️, donde las ecuaciones de estado son altamente no lineales.
-- Optimizar el rendimiento de sistemas energéticos 🔋, donde intervienen múltiples variables interdependientes.
-
-En estos escenarios, los **métodos numéricos** se convierten en herramientas esenciales. Permiten aproximar soluciones con la precisión deseada, utilizando algoritmos iterativos que pueden implementarse fácilmente en una computadora. Así, los métodos numéricos actúan como el puente entre la teoría matemática y la resolución práctica de problemas complejos, abriendo la puerta a la simulación, el modelado y la optimización en la ciencia y la ingeniería moderna.
+Ante este tipo de situaciones, los **métodos numéricos** resultan fundamentales. A través de algoritmos iterativos, permiten obtener soluciones aproximadas con el nivel de precisión requerido. Estos métodos facilitan la implementación computacional, convirtiéndose en una pieza clave para abordar problemas que no pueden resolverse analíticamente. Gracias a ellos, es posible simular, modelar y optimizar sistemas complejos en diversas áreas del conocimiento.
 
 ---
 
-## 📌 Importancia de los Métodos de Solución
+## ¿Por qué usar métodos para resolver ecuaciones?
 
-> "Son las herramientas que nos permiten encontrar respuestas donde las matemáticas tradicionales se quedan cortas."
+> "Cuando las soluciones exactas no existen o no son prácticas, los métodos numéricos marcan el camino."
 
-**Aplicaciones principales:**
-- Encontrar raíces de ecuaciones no lineales.
-- Optimización de funciones complejas.
-- Resolución de sistemas de ecuaciones.
-- Análisis de convergencia y error.
+**Usos destacados:**
+- Cálculo de raíces en ecuaciones sin solución directa.
+- Optimización de funciones complicadas.
+- Resolución numérica de sistemas con múltiples incógnitas.
+- Evaluación del comportamiento del error y verificación de la convergencia de los métodos.
 
----
-
-## 🎓 Actividades de Aprendizaje
-
-### 📊 T2-E1: Exposición de Métodos Numéricos
-
-**Indicaciones del docente**  
-Conformarse en equipo e investigar los diferentes métodos de solución para una ecuación ( bisección , regla falta, interpolación, secante , etc), y entregar un reporte o tabla comparativa.
-
-El metodo asignado fue el de la secante (actividad realizada en equipo), donde se abaracaron los siguientes puntos 
-
-
-- Introducción del metodo
-- ¿Qué es?
-- Fórmula
-- Pasos para aplicar el método
-- Requisitos para aplicar el método
-- Ejemplo (video)
-- Aplicaciones
-- Ventajas y Desventajas
-- Errores
-- Tabla comparativa
-- Desafío
-- Conclusión General.
-
-[🔗 Ver presentacion sobre el metodo de la secante (Canva)](https://www.canva.com/design/DAGe18Zxr5k/NBIKlX_VZRux4u_mbS9y4A/edit?utm_content=DAGe18Zxr5k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
----
-
-### 💻 T2-E2: Problemario de Métodos de Solución
+### Problemario de Métodos de Solución
 
 **Descripción:**  
 Ejercicios prácticos enfocados en la aplicación de los métodos numéricos para encontrar raíces de ecuaciones no lineales. Cada subapartado describe brevemente el método utilizado y presenta un ejercicio representativo, resuelto con Python.
@@ -71,7 +40,7 @@ Se seleccionan los extremos del intervalo, se verifica el cambio de signo, se ca
 
 
 
-[🔗 Ver código de método de bisección (Python)](https://github.com/IvanPedroSuarez/Metodos-Numericos-/blob/master/codigos/tema2/Método%20de%20biseccion.py)
+[🔗 Ver código de método de bisección (Python)](https://github.com/sergiolb27/Metodos-Numericos-/blob/390e40270b0a4f3b5e712389f812fb8864b2495a/codigos/tema2/M%C3%A9todo%20de%20biseccion.py)
 
 ---
 
@@ -88,7 +57,7 @@ Se usan los extremos del intervalo y la fórmula de la regla falsa para aproxima
 
 
 
-[🔗 Ver código de método de regla falsa (Python)](https://github.com/IvanPedroSuarez/Metodos-Numericos-/blob/master/codigos/tema2/Método%20de%20regla%20falsa.py)
+[🔗 Ver código de método de regla falsa (Python)](https://github.com/sergiolb27/Metodos-Numericos-/blob/390e40270b0a4f3b5e712389f812fb8864b2495a/codigos/tema2/M%C3%A9todo%20de%20la%20regla%20falsa.py)
 
 ---
 
@@ -105,7 +74,7 @@ Se elige un valor inicial y se itera usando la función de punto fijo hasta que 
 
 
 
-[🔗 Ver código de método de punto fijo (Python)](https://github.com/IvanPedroSuarez/Metodos-Numericos-/blob/master/codigos/tema2/Método%20de%20punto%20fijo.py)
+[🔗 Ver código de método de punto fijo (Python)](https://github.com/sergiolb27/Metodos-Numericos-/blob/390e40270b0a4f3b5e712389f812fb8864b2495a/codigos/tema2/M%C3%A9todo%20de%20punto%20fijo.py)
 
 ---
 
@@ -122,7 +91,7 @@ Se calcula la derivada, se aplica la fórmula de Newton-Raphson y se repite hast
 
 
 
-[🔗 Ver código de método de Newton-Raphson (Python)](https://github.com/IvanPedroSuarez/Metodos-Numericos-/blob/master/codigos/tema2/Método%20de%20newton-raphson.py)
+[🔗 Ver código de método de Newton-Raphson (Python)](https://github.com/sergiolb27/Metodos-Numericos-/blob/390e40270b0a4f3b5e712389f812fb8864b2495a/codigos/tema2/M%C3%A9todo%20de%20Newton-Raphson.py)
 
 ---
 
@@ -139,23 +108,9 @@ Se aplica la fórmula de la secante iterativamente hasta que el error relativo s
 
 
 
-[🔗 Ver código de método de la secante (Python)](https://github.com/IvanPedroSuarez/Metodos-Numericos-/blob/master/codigos/tema2/Método%20de%20la%20secante.py)
-
----
-
-Cada ejercicio incluye el análisis del procedimiento, la interpretación de resultados y la discusión de posibles dificultades o casos especiales.  
-[🔗 Ver todos los códigos de implementación](https://github.com/IvanPedroSuarez/Metodos-Numericos-/tree/master/codigos/tema2)
-
----
-
-### 🚀 T2   --   E3  --- Proyecto
-
-**Descripción:**  
-Para la evaluación del tema el docente planteo una funcion de la cual se debia obtener la raiz usando el metodo de la regla falsa usando Excel. 
-[🔗 Ver documento de la evaluacion en formato .xlsx, ](https://docs.google.com/spreadsheets/d/1tnfnVd17U6HjCpkTi4_rgPxPFfid86v9/edit?usp=sharing&ouid=114454402532269181538&rtpof=true&sd=true)
-
+[🔗 Ver código de método de la secante (Python)](https://github.com/sergiolb27/Metodos-Numericos-/blob/390e40270b0a4f3b5e712389f812fb8864b2495a/codigos/tema2/M%C3%A9todo%20de%20la%20secante.py)
 
 ---
 
 
-[⬅️ Volver al README principal](../README.md)
+[ Volver al README principal](../README.md)
