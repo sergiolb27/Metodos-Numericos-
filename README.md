@@ -6,9 +6,8 @@
 
 - **Sergio López Beltrán**
 
----
 
-## 📂 Contenido del repositorio
+##  Contenido del repositorio
 
 | # | Tema | Recursos | Implementación |
 |:-:|------|----------|----------------|
@@ -20,9 +19,4 @@
 | 6 | Modelado con ecuaciones diferenciales | [📄 Documento](/introduccion/TEMA6-Ecuaciones-Diferenciales.md) | [ Código](/codigos/tema6) |
 
 ---  
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/tu-usuario/metodos-numericos-itesa.git
-cd metodos-numericos-itesa
 
