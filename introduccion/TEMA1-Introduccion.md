@@ -22,16 +22,6 @@ Aplicaciones destacadas:
 
 Desde el diseño de productos hasta el análisis de sistemas naturales, estos métodos son indispensables.
 
-### Cifras significativas
-
-Las cifras significativas indican cuánta precisión tiene un número. Más cifras = más precisión.
-
-Ejemplo en Python:
-
-```python
-pi_aproximado = 3.14       # 3 cifras significativas
-pi_preciso = 3.141592      # 7 cifras significativas
-
 
 ---
 ### T1-E2: Problemario de Errores Numéricos
