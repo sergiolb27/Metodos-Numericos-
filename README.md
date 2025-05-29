@@ -1,24 +1,10 @@
 # 🔢 Métodos Numéricos Aplicados en Ingeniería - ITESA
 
-> Repositorio académico con implementaciones prácticas de **métodos numéricos utilizados en el ámbito computacional e ingenieril**.
-
 ---
 
 ## 👨‍🔬 Autor del proyecto
 
 - **Sergio López Beltrán**
-
----
-
-## 📌 Relevancia de los métodos numéricos en sistemas computacionales
-
-En el desarrollo de software de ingeniería, los métodos numéricos son una herramienta indispensable para modelar, predecir y resolver problemas reales que no pueden abordarse con fórmulas exactas. Se utilizan en:
-
-- 🎮 **Desarrollo de simuladores y entornos interactivos**  
-- 🌐 **Cálculo distribuido y análisis de redes complejas**  
-- 🧠 **Algoritmos de aprendizaje automático**  
-- 🖼️ **Reconocimiento de patrones en imágenes y sonido**  
-- 📉 **Cómputo científico y técnicas de análisis de datos**
 
 ---
 
@@ -35,7 +21,7 @@ En el desarrollo de software de ingeniería, los métodos numéricos son una her
 
 ---
 
-## 🛠 Herramientas utilizadas
+##  Herramientas utilizadas
 
 - Lenguaje: Python  
 - Control de versiones: Git y GitHub  
