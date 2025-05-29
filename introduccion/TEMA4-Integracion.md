@@ -4,9 +4,9 @@ En las ciencias aplicadas y la ingeniería, muchas veces se trabaja con funcione
 
 Por ejemplo:
 
-- Analizar la velocidad instantánea de un vehículo 🚗 a partir de datos experimentales de posición.
-- Calcular el área bajo la curva de una función de comportamiento no conocido con precisión 📈.
-- Estimar flujos de calor o cargas eléctricas en sistemas dinámicos ⚡ donde las expresiones analíticas no son viables.
+- Analizar la velocidad instantánea de un vehículo a partir de datos experimentales de posición.
+- Calcular el área bajo la curva de una función de comportamiento no conocido con precisión .
+- Estimar flujos de calor o cargas eléctricas en sistemas dinámicos donde las expresiones analíticas no son viables.
 
 Aquí es donde entran en juego los métodos de **diferenciación e integración numérica**, permitiendo obtener aproximaciones útiles con alta precisión y eficiencia computacional.
 
@@ -45,7 +45,7 @@ Este método utiliza parábolas para aproximar el área bajo la curva. Es muy pr
 **Ejercicio resuelto:**  
 Calcular la integral de \( f(x) = e^{-x^2} \) en \([0, 1]\).
 
-[🔗 Ver código de Simpson 1/3 (Python)](https://github.com/sergiolb27/Metodos-Numericos-/blob/e26bd0d286256c871683fd435e8f4fa8cdd36a8b/codigos/tema4/Metodo%20de%20Simpson%20un%20tercio.py)
+[ Ver código de Simpson 1/3 (Python)](https://github.com/sergiolb27/Metodos-Numericos-/blob/e26bd0d286256c871683fd435e8f4fa8cdd36a8b/codigos/tema4/Metodo%20de%20Simpson%20un%20tercio.py)
 
 
 #### Regla de Simpson 3/8
@@ -56,7 +56,7 @@ Simpson 3/8 es una variante que utiliza polinomios cúbicos. Es útil cuando el 
 **Ejercicio resuelto:**  
 Aproximar la integral de \( f(x) = \sqrt{1 + x^4} \) en \([0, 3]\).
 
-[🔗 Ver código de Simpson 3/8 (Python)](https://github.com/sergiolb27/Metodos-Numericos-/blob/e26bd0d286256c871683fd435e8f4fa8cdd36a8b/codigos/tema4/Metodo%20Simpson%20tres%20octavos.py)
+[ Ver código de Simpson 3/8 (Python)](https://github.com/sergiolb27/Metodos-Numericos-/blob/e26bd0d286256c871683fd435e8f4fa8cdd36a8b/codigos/tema4/Metodo%20Simpson%20tres%20octavos.py)
 
 
 #### Cuadratura Gaussiana
@@ -67,7 +67,7 @@ Este método transforma la integral definida a una forma estándar y utiliza pun
 **Ejercicio resuelto:**  
 Evaluar la integral de \( f(x) = \frac{1}{1 + x^2} \) en \([-1, 1]\) usando 2 y 3 puntos.
 
-[🔗 Ver código de Cuadratura Gaussiana (Python)](https://github.com/sergiolb27/Metodos-Numericos-/blob/e26bd0d286256c871683fd435e8f4fa8cdd36a8b/codigos/tema4/Cuadratura%20Gaussiana.py)
+[ Ver código de Cuadratura Gaussiana (Python)](https://github.com/sergiolb27/Metodos-Numericos-/blob/e26bd0d286256c871683fd435e8f4fa8cdd36a8b/codigos/tema4/Cuadratura%20Gaussiana.py)
 
 ## Ejemplo: Limitación por valores no definidos (NaN o infinito) Metodo del trapecio.
 
@@ -81,5 +81,5 @@ Aquí, la función 1/x no está definida en x = 0 (hay una discontinuidad), y Py
 
 [Ver caso de prueba ](https://github.com/sergiolb27/Metodos-Numericos-/blob/d2a8bc01313feaaea7a15c9251888e550615513d/codigos/tema4/CasoPrueba%20(1).pyy)
 
-[⬅️ Volver al README principal](../README.md)
+[ Volver al README principal](../README.md)
 
