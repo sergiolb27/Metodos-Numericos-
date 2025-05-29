@@ -1,6 +1,5 @@
 # Métodos Numéricos
 
-https://github.com/sergiolb27/Metodos-Numericos-/blob/17a10f65f77bd5b909abb33b0e32a3c416ba820e/codigos/tema2/CasoPrueba.py
 
 ##  Autor del GITHUB
 
