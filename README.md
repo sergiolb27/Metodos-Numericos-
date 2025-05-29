@@ -24,14 +24,14 @@ En el desarrollo de software de ingeniería, los métodos numéricos son una her
 
 ## 📂 Contenido del repositorio
 
-| # | Tema |Implementación |
-|:-:|------|--------------|
-| 1 | Fundamentos y conceptos básicos |  [💻 Código](/codigos/tema1/) |
-| 2 | Métodos para raíces de ecuaciones |  [💻 Código](/codigos/tema2) |
-| 3 | Resolución de sistemas lineales |  [💻 Código](/codigos/tema3) |
-| 4 | Cálculo numérico de derivadas e integrales |  [💻 Código](/codigos/tema4) |
-| 5 | Técnicas de interpolación | [💻 Código](/codigos/tema5) |
-| 6 | Modelado con ecuaciones diferenciales | [💻 Código](/codigos/tema6) |
+| # | Tema | Recursos | Implementación |
+|:-:|------|----------|----------------|
+| 1 | Fundamentos y conceptos básicos | [📄 Documento](/docs/TEMA1-Introduccion.md) | [💻 Código](/codigos/tema1/) |
+| 2 | Métodos para raíces de ecuaciones | [📄 Documento](/docs/TEMA2-Ecuaciones.md) | [💻 Código](/codigos/tema2) |
+| 3 | Resolución de sistemas lineales | [📄 Documento](/docs/TEMA3-Sistemas-Ecuaciones.md) | [💻 Código](/codigos/tema3) |
+| 4 | Cálculo numérico de derivadas e integrales | [📄 Documento](/docs/TEMA4-Integracion.md) | [💻 Código](/codigos/tema4) |
+| 5 | Técnicas de interpolación | [📄 Documento](/docs/TEMA5-Interpolacion.md) | [💻 Código](/codigos/tema5) |
+| 6 | Modelado con ecuaciones diferenciales | [📄 Documento](/docs/TEMA6.md) | [💻 Código](/codigos/tema6) |
 
 ---
 
