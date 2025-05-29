@@ -1,5 +1,4 @@
-# Tema 6: Solución de ecuaciones diferenciale
-
+# Tema 6 Ecuaciones diferenciales
 En la ciencia, la ingeniería y la tecnología, muchos fenómenos reales se describen mediante ecuaciones diferenciales. Estas ecuaciones permiten modelar cómo cambian las variables en el tiempo o el espacio, y son esenciales para entender procesos dinámicos en sistemas físicos, biológicos, económicos y más. Sin embargo, la mayoría de las ecuaciones diferenciales no pueden resolverse de forma exacta, por lo que es necesario recurrir a métodos numéricos para obtener soluciones aproximadas. Por ejemplo:
 
 - Predecir la evolución de la temperatura en un objeto que se enfría o calienta con el tiempo .
@@ -8,14 +7,12 @@ En la ciencia, la ingeniería y la tecnología, muchos fenómenos reales se desc
 - Analizar la concentración de un medicamento en la sangre tras una dosis .
 - Estudiar la respuesta de un circuito eléctrico ante una señal variable .
 
-## Problemario de Métodos Numéricos para Ecuaciones Diferenciales
+## Problemario Ecuaciones Diferenciales
 
 Ejercicios prácticos enfocados en la aplicación de métodos numéricos para la resolución de ecuaciones diferenciales ordinarias y sistemas, con aplicaciones reales en ingeniería, física y biología. Cada subapartado describe brevemente el método utilizado y presenta un ejercicio representativo, resuelto con Python y acompañado de interpretación.
 
 
 ##  Método de Euler
-**Descripción del método:**
-El método de Euler es una técnica numérica simple y directa para aproximar soluciones de ecuaciones diferenciales ordinarias de primer orden. Consiste en avanzar paso a paso usando la pendiente local, lo que lo hace fácil de implementar pero con precisión limitada para pasos grandes.
 
 **Ejercicio resuelto:**  
 En el diseño de sensores IoT y sistemas electrónicos, es fundamental conocer el comportamiento de los circuitos RC, especialmente durante la carga y descarga de un capacitor. Supón que se conecta un capacitor de 100 μF en serie con una resistencia de 1 kΩ a una fuente de 5V. Se desea estimar cómo varía la tensión en el capacitor durante los primeros 0.2 segundos después de aplicar el voltaje. Este análisis es crucial para determinar la velocidad de respuesta del circuito, optimizar el filtrado de señales y garantizar que el sistema funcione correctamente en aplicaciones de adquisición de datos o transmisión inalámbrica.
